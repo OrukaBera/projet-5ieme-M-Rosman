@@ -1,0 +1,4 @@
+1) installer bootstrap
+2) trouver comment foutre cette page https://getbootstrap.com/docs/5.3/examples/cover/
+3) faire bosser le petit cerveau pour avancer
+4) faire fcontionner bootstrap
